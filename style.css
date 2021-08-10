@@ -1,0 +1,8 @@
+img{ height: 300px; 
+    width: 200px; 
+    border: red solid 4px;
+    padding: 30px;
+    background-color: aqua;
+    border: green dotted 3px;
+    border-radius: 30%;
+     }
